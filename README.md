@@ -1,6 +1,6 @@
 # ⌨ Hey there! I'm Hossein
 
-👨‍💻 Just a Programmer.
+👨‍💻 I think I'm frontend developer.
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=mehajho3ein&show_icons=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehajho3ein&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=mehajho3ein&theme=default&hide_border=false)
+[![](https://git-hub-streak-stats.vercel.app?user=mehajho3ein&fire=EB5454)](https://git.io/streak-stats)
 ---
 
 ### 📫 Connect with Me
