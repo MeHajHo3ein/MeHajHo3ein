@@ -35,13 +35,17 @@
      </td>
    </tr>
    <tr>
-     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=regex" width="55" height="55" />
-       <br><b>Regex</b>
+    <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=php" width="55" height="55" />
+       <br><b>Php</b>
      </td>
-     <td align="center" width="90">
+     <!-- <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
        <br><b>Vscode</b>
+     </td> -->
+    <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=regex" width="55" height="55" />
+       <br><b>Regex</b>
      </td>
      <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
@@ -71,13 +75,13 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /> 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> 
+  <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> 
 </p> -->
-
 > 🎨 Note: Yes, Figma is not “real coding” — but I’m learning it anyway 😅  
 ---
-![](https://github-readme-stats.vercel.app/api?username=mehajho3ein&show_icons=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehajho3ein&layout=compact)
-[![](https://git-hub-streak-stats.vercel.app?user=mehajho3ein&fire=EB5454)](https://git.io/streak-stats)
+### 📊 GitHub Stats:
+![](https://github-readme-stats-fast.vercel.app/api?username=mehajho3ein&show_icons=true&theme=github_dark)
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=mehajho3ein&theme=github_dark)
 ---
 
 ### 📫 Connect with Me
