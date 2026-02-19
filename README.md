@@ -4,13 +4,13 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
  I don't really know what to say about myself 🤔  
  Maybe there's nothing special.
 
 ---
 
-### 🧰 Tools & Technologies I mess around with:
+## 🧰 Tools & Technologies I mess around with:
  <table>
    <tr>
      <td align="center" width="90">
@@ -79,11 +79,11 @@
 </p> -->
 > 🎨 Note: Yes, Figma is not “real coding” — but I’m learning it anyway 😅  
 ---
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats-fast.vercel.app/api?username=mehajho3ein&show_icons=true&theme=github_dark)
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=mehajho3ein&theme=github_dark)
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/MeHajHo3ein)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mehajho3ein@gmail.com)
