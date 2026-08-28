@@ -32,7 +32,8 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TIME: "False"
+          SHOW_TIME: "True"
+          SHOW_LOC_CHART: "False"
 
           BAR_STYLE: "svg"
           BAR_RADIUS: "0"
