@@ -96,8 +96,6 @@ I don't really know what to say about myself 🤔
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 14.4 kB Used in GitHub's Storage 
@@ -134,8 +132,6 @@ Sunday                   126 commits         ████░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Tehran
-
 💬 Programming Languages: 
 TypeScript               11 hrs 20 mins      █████████████████████████   99.09 % 
 Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
@@ -151,9 +147,6 @@ code-master              8 hrs 30 mins       ███████████�
 modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
 react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 next-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Windows                  11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,7 +172,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MeHajHo3ein/MeHajHo3ein/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 17:40:42 UTC
+ Last Updated on 28/08/2026 17:43:32 UTC
 <!--END_SECTION:waka-->
 
 ---
