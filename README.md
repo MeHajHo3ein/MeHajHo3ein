@@ -92,6 +92,52 @@ I don't really know what to say about myself 🤔
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               11 hrs 20 mins      █████████████████████████   99.09 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 26 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+code-master              8 hrs 30 mins       ███████████████████░░░░░░   74.37 % 
+modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+next-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 ---
