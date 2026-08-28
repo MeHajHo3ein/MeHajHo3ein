@@ -92,6 +92,10 @@ I don't really know what to say about myself 🤔
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -109,21 +113,21 @@ I don't really know what to say about myself 🤔
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                162 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-🌆 Daytime                293 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
-🌃 Evening                271 commits         █████████░░░░░░░░░░░░░░░░   37.33 % 
+🌞 Morning                162 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌆 Daytime                293 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌃 Evening                272 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Monday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Friday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 ```
 
 
@@ -175,7 +179,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MeHajHo3ein/MeHajHo3ein/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 17:25:13 UTC
+ Last Updated on 28/08/2026 17:40:42 UTC
 <!--END_SECTION:waka-->
 
 ---
