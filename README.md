@@ -92,6 +92,90 @@ I don't really know what to say about myself 🤔
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 668 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                162 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌆 Daytime                293 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
+🌃 Evening                271 commits         █████████░░░░░░░░░░░░░░░░   37.33 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               11 hrs 20 mins      █████████████████████████   99.09 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 26 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+code-master              8 hrs 30 mins       ███████████████████░░░░░░   74.37 % 
+modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+next-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  11 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MeHajHo3ein/MeHajHo3ein/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/08/2026 17:25:13 UTC
 <!--END_SECTION:waka-->
 
 ---
