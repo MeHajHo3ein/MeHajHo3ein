@@ -109,20 +109,21 @@ Sunday                   126 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 20 mins      █████████████████████████   99.09 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               9 hrs 10 mins       ███████████████████░░░░░░   76.15 % 
+JavaScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code-master              8 hrs 30 mins       ███████████████████░░░░░░   74.37 % 
-modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-next-project             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+code-master              6 hrs 20 mins       █████████████░░░░░░░░░░░░   52.65 % 
+modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+modern-store-fullstack   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
