@@ -95,13 +95,13 @@ I don't really know what to say about myself 🤔
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 ```
 
 
@@ -109,31 +109,31 @@ Sunday                   126 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 10 mins       ███████████████████░░░░░░   76.15 % 
-JavaScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               5 hrs 7 mins        ██████████████░░░░░░░░░░░   54.28 % 
+JavaScript               3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-code-master              6 hrs 20 mins       █████████████░░░░░░░░░░░░   52.65 % 
-modern-store             2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-modern-store-fullstack   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+code-master              3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.31 % 
+modern-store-fullstack   2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+modern-store             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+taskflow                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               8 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
