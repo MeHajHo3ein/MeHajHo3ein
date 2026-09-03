@@ -95,13 +95,13 @@ I don't really know what to say about myself 🤔
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Tuesday                  125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Tuesday                  125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 ```
 
 
@@ -109,21 +109,21 @@ Sunday                   131 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 38 mins       ██████████████░░░░░░░░░░░   57.05 % 
-TypeScript               3 hrs               ████████░░░░░░░░░░░░░░░░░   30.34 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               7 hrs 7 mins        ███████████████████░░░░░░   75.26 % 
+TypeScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taskflow                 3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-code-master              3 hrs               ████████░░░░░░░░░░░░░░░░░   30.34 % 
-modern-store-fullstack   2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+taskflow                 4 hrs 45 mins       █████████████░░░░░░░░░░░░   50.16 % 
+modern-store-fullstack   2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+code-master              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+react-projects           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
