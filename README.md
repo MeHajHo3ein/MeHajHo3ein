@@ -109,19 +109,19 @@ Sunday                   131 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 34 mins       █████████████████████░░░░   85.76 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript               5 hrs 56 mins       ██████████████████████░░░   88.29 % 
+Git Config               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taskflow                 5 hrs 13 mins       ███████████████░░░░░░░░░░   59.09 % 
-modern-store-fullstack   2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-MeHajHo3ein              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+taskflow                 5 hrs 52 mins       ██████████████████████░░░   87.46 % 
+modern-store-fullstack   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+complete-node-bootcamp   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
