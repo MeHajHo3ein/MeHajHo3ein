@@ -109,18 +109,18 @@ Sunday                   131 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 25 mins       ██████████████████████░░░   87.65 % 
-Git Config               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript               6 hrs 31 mins       ███████████████████████░░   92.07 % 
+Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taskflow                 5 hrs 52 mins       ████████████████████████░   95.03 % 
-modern-store-fullstack   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+taskflow                 5 hrs 10 mins       ██████████████████░░░░░░░   73.04 % 
+taskflow-backend         1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
 complete-node-bootcamp   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
