@@ -109,19 +109,18 @@ Sunday                   131 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 2 mins        ████████████████████░░░░░   79.59 % 
-Git Config               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript               4 hrs 7 mins        ███████████████████████░░   90.92 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taskflow-backend         1 hr 54 mins        ███████████████████░░░░░░   74.34 % 
-taskflow                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-complete-node-bootcamp   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+journalming              2 hrs 37 mins       ██████████████░░░░░░░░░░░   57.96 % 
+taskflow-backend         1 hr 54 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
 ```
 
 **I Mostly Code in JavaScript** 
