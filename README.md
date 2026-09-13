@@ -92,54 +92,6 @@ I don't really know what to say about myself 🤔
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Tuesday                  125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Friday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Sunday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               6 hrs 2 mins        █████████████████████░░░░   82.36 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   98.31 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-
-🐱‍💻 Projects: 
-journalming              2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-taskflow-backend         1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-auth-practice            37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-auth-practice-v8         30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-auth-project             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 ---
