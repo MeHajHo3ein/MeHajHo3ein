@@ -38,21 +38,25 @@ I don't really know what to say about myself 🤔
    </tr>
    <tr>
     <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+       <br><b>Node.js</b>
+     </td>
+    <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
+       <br><b>Express</b>
+     </td>
+    <!-- <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=php" width="55" height="55" />
        <br><b>Php</b>
-     </td>
+     </td> -->
      <!-- <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
        <br><b>Vscode</b>
      </td> -->
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=regex" width="55" height="55" />
        <br><b>Regex</b>
-     </td>
-     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
-       <br><b>Figma</b>
-     </td>
+     </td> -->
      <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
        <br><b>Git</b>
@@ -61,7 +65,21 @@ I don't really know what to say about myself 🤔
        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
        <br><b>Github</b>
      </td>
+    <td align="center" width="90">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
+       <br><b>MySQL</b>
+     </td>
+     <!-- <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+       <br><b>Figma</b>
+     </td> -->
    </tr>
+  <tr>
+   <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+       <br><b>Figma</b>
+     </td>
+  </tr>
  </table>
 
 <!-- <p>
