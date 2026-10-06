@@ -127,11 +127,11 @@ Sunday                   155 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               11 hrs 23 mins      ██████████████████████░░░   89.69 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               9 hrs 20 mins       ██████████████████████░░░   89.56 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
