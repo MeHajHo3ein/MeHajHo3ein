@@ -113,13 +113,13 @@ I don't really know what to say about myself 🤔
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Tuesday                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Friday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Sunday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Monday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Friday                   146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   155 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 
 
@@ -127,11 +127,11 @@ Sunday                   155 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 47 mins       █████████████████████░░░░   84.96 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript               8 hrs 51 mins       ████████████████████░░░░░   80.73 % 
+SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 **I Mostly Code in JavaScript** 
