@@ -117,13 +117,13 @@ I don't really know what to say about myself 🤔
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Sunday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Monday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Sunday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 
@@ -131,11 +131,11 @@ Sunday                   204 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ██████████████████████░░░   86.29 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JavaScript               3 hrs 28 mins       █████████████████████░░░░   82.76 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
