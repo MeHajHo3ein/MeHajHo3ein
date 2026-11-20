@@ -117,13 +117,13 @@ I don't really know what to say about myself 🤔
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Sunday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Monday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Saturday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Sunday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 ```
 
 
@@ -141,11 +141,11 @@ SQL                      6 mins              █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████████████░░░░░░░░░   63.33 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               19 repos            ████████████████░░░░░░░░░   65.52 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
